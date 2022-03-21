@@ -1,0 +1,7 @@
+{
+    "name": "simonschaufi/surf-minimal-composer-app",
+    "description": "Surf test repository",
+    "require": {
+        "sebastian/type": "^3.0"
+    }
+}
